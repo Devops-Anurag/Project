@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello
+=======
+Hello Team check status
+
+>>>>>>> f99de7e (update)
