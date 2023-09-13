@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Hello
-=======
-Hello Team check status hello
-
->>>>>>> f99de7e (update)
+Hello Team check with status if required
